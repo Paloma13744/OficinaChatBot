@@ -1,4 +1,4 @@
-# Horóscopo Bot
+# Horóscopo Bot🔮
 
 ## Descrição
 
@@ -15,7 +15,7 @@ Este projeto é um chatbot desenvolvido com **Python** e a biblioteca **Telebot*
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/horoscopo-bot.git
+    git clone https://github.com/Paloma13744/OficinaChatBot.git
     cd horoscopo-bot
     ```
 
